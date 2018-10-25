@@ -2,12 +2,12 @@
 
 ## LEVEL INDEX
 
-* [Level 0](/level0.html)
-* [Level 1](/level*html)
-* [Level 2](/level2.html)
-* [Level 3](/level3.html)
-* [Level 4](/level4.html)
-* [Level 5](/level5.html)
+* [Level 0](https://learn-promise.netlify.com/level0.html)
+* [Level 1](https://learn-promise.netlify.com/level1.html)
+* [Level 2](https://learn-promise.netlify.com/level2.html)
+* [Level 3](https://learn-promise.netlify.com/level3.html)
+* [Level 4](https://learn-promise.netlify.com/level4.html)
+* [Level 5](https://learn-promise.netlify.com/level5.html)
 
 ### INSTRUCTION
 Just look the results in the browser's console
