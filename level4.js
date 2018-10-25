@@ -15,7 +15,7 @@
     return Promise.resolve(number * 3)
 }
 
-async function asyncFunction() {
+let asyncFunction = async () => {
     await console.log("before promise")
     await numberValidation(2).then(multipleByTwo).then(multipleByTwo).then(multipleByThree).then(res => console.log(res)).catch(err => console.log(err))
     console.log("after promise")
