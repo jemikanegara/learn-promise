@@ -10,4 +10,4 @@
 * [Level 5](https://learn-promise.netlify.com/level5.html)
 
 ### INSTRUCTION
-Just look the results in the browser's console
+Just see the results in the browser's console
