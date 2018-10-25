@@ -2,8 +2,8 @@ let checkVariableType = (x) => {
     if(x){
         return Promise.resolve(`${x} is a ${typeof x}`)
     } else {
-        const notNumber = new Error(`please input a variable`)
-        return Promise.reject(notNumber)
+        const notExist = new Error(`please input a variable`)
+        return Promise.reject(notExist)
     }
 }
 
